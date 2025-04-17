@@ -1,7 +1,3 @@
-# ========================
-# FILE: preprocess_data_masked.py
-# ========================
-
 import json
 import os
 import re
